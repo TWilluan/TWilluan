@@ -28,8 +28,7 @@
 
 <p align="left">I do back-end development, specializing in implementing robust server-side architectures and managing databases. I also excel in the implementation of machine learning models, such as phishing website detection. Eager to apply my skills and contribute to innovative software solutions within the dynamic landscape of the technology industry.</p>
 
-####
-
+----------------
 <h3 align="left">👨‍💻 Programming Languages</h3>
 
 

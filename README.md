@@ -20,11 +20,8 @@
   </a>
 </div>
 
----
-
 <h2 align="center">A passionate software developer from Vietnam 🇻🇳 <br>Living in Maryland, U.S. 🇺🇸</h2>
 
----
 
 ####
 <h3 align="left">What I do</h3>

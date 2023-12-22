@@ -1,18 +1,11 @@
-<br clear="both">
 
-<div align="center">
+
+<div align="center", style="margin-bottom: -20px;">
   <img height="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h1 align="center">Hey there 👋, I am Tuan Vo</h1>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuanvo73/" target="_blank">
@@ -26,29 +19,18 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 <h2 align="center">A passionate software developer from Vietnam 🇻🇳 <br>Living in Maryland, U.S. 🇺🇸</h2>
 
-###
-
+####
 <h3 align="left">What I do</h3>
 
-###
-
-<br clear="both">
 
 <p align="left">I do back-end development, specializing in implementing robust server-side architectures and managing databases. I also excel in the implementation of machine learning models, such as phishing website detection. Eager to apply my skills and contribute to innovative software solutions within the dynamic landscape of the technology industry.</p>
 
-###
+####
 
 <h3 align="left">👨‍💻 Programming Languages</h3>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="47" alt="csharp logo"  />
@@ -66,15 +48,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="47" alt="react logo"  />
 </div>
 
-###
-
-<br clear="both">
+####
 
 <h3 align="left">🛠 Framework and Tools</h3>
 
-###
-
-<br clear="both">
+####
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt="dotnetcore logo"  />
@@ -88,15 +66,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
 </div>
 
-###
-
-<br clear="both">
+####
 
 <h3 align="left">📂 Database</h3>
 
-###
-
-<br clear="both">
+####
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
@@ -108,30 +82,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
 </div>
 
-###
-
-<br clear="both">
+####
 
 <h3 align="left">🌐 Languages</h3>
 
-###
+####
 
-<br clear="both">
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English       | Professional                                                              |
+| Vietnamese    | Native language                                                           |
 
-<p align="left">English: Professional<br>Vietnamese: Native</p>
-
-###
-
-<br clear="both">
-
+####
+<details>
+<summary>
 <h3 align="left">📊 Stats :</h3>
+</summary>
 
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TWilluan&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+####

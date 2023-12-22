@@ -20,11 +20,11 @@
   </a>
 </div>
 
-<h2 align="center">A passionate software developer from Vietnam 🇻🇳 <br>Living in Maryland, U.S. 🇺🇸</h2>
+<h2 align="center">A Passionate Software Engineer from Vietnam 🇻🇳 <br>Living in Maryland, U.S. 🇺🇸</h2>
 
 
 ####
-<h3 align="left">What I do</h3>
+<h3 align="left">What I Do</h3>
 
 
 <p align="left">I do back-end development, specializing in implementing robust server-side architectures and managing databases. I also excel in the implementation of machine learning models, such as phishing website detection. Eager to apply my skills and contribute to innovative software solutions within the dynamic landscape of the technology industry.</p>

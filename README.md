@@ -4,8 +4,9 @@
   <img height="60" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
-<h1 align="center">Hey there 👋, I am Tuan Vo</h1>
-
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&weight=500&size=35&pause=1000&color=2B56F7&center=true&vCenter=true&random=true&width=600&height=75&lines=Hey+there%F0%9F%91%8B%2C+I+am+Tuan+Vo" alt="Typing SVG" /></a>
+</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/tuanvo73/" target="_blank">
@@ -103,5 +104,3 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=TWilluan&locale=en&mode=daily&theme=cobalt&hide_border=true&border_radius=10&order=3" height="220" alt="streak graph"  />
 </div>
-
-####
